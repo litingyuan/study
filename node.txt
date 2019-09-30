@@ -1,0 +1,3 @@
+git 和 github 的使用
+git add node.txt  #将node.txt将新添加的node.txt文件添加到暂存区，以备提交
+
